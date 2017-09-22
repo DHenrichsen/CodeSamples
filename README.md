@@ -5,4 +5,4 @@ Project Euler problems, insofar as I post my solutions here, will not have sourc
 
 Hackkerrank or other problems will not be listed here.
 
-The bulk of the repository will be interesting problems from my classes, for which I consider the code a good representation of either my work or the details of the class.
+The bulk of the repository will be interesting problems that I have encountered, which I consider the code a good representation of either my work or the details of a specific class.
